@@ -1,0 +1,9 @@
+/Users/duherb/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.deps.json
+/Users/duherb/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.dll
+/Users/duherb/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.pdb
+/Users/duherb/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csprojAssemblyReference.cache
+/Users/duherb/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csproj.CoreCompileInputs.cache
+/Users/duherb/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfoInputs.cache
+/Users/duherb/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfo.cs
+/Users/duherb/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.dll
+/Users/duherb/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.pdb
